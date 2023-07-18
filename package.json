@@ -1,0 +1,19 @@
+{
+	"scripts": {
+		"start": "jiti src/index.ts"
+	},
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.39.7",
+		"eslint": "^8.44.0",
+		"jiti": "^1.19.1",
+		"rc9": "^2.1.1"
+	},
+	"dependencies": {
+		"c12": "^1.4.2"
+	},
+	"tnux": {
+		"app": {
+			"baseURL": "/tnux"
+		}
+	}
+}
